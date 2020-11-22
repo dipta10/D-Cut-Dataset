@@ -1,6 +1,6 @@
 # D-Cut-Dataset
 
-This repository contains initial images we used to train our U-net and Grabcut model.
+This repository contains initial images we used to train our U-net model.
 
 The images are divided into 3 parts.
 * Original: Contains the original image.
